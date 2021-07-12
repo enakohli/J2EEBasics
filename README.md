@@ -1,2 +1,2 @@
 # J2EEBasics
-This shows very basic files dealing with J2EE
+This repo holds some very basic files dealing with J2EE
